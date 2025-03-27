@@ -1,3 +1,9 @@
+# README
+
+This is a project I worked on that tried to use word embeddings to try and predict which words an individual person would find funny. Robust_Learning_from_Unfunny_Sources.pdf is the paper I wrote, and functions_untrusted_mychanges.py includes comments delineating original code I wrote. Everything else is credited below.
+
+It is heavily based on some existing github repos, most notably https://github.com/limorigu/Cockamamie-Gobbledegook.
+
 # Code Acknowledgements
 
 ## Sources
